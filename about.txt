@@ -1,0 +1,2 @@
+Creado por Alexis De la Cruz Hernández
+Juego sencillo de adivina el número
